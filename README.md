@@ -31,3 +31,10 @@ A speaking practice app for XJTLU Year 1 English, with timed responses, mock int
 An interactive showcase of 30 universities you can explore with hand gestures. The project page has a browser demo and a Windows edition.
 
 [查看作品 · View project](https://campus-constellation.eager-bloom-6519.chatgpt.site/)
+
+## 项目历程 · Project timeline
+
+- **2026-11-20** · 公开我的第一个仓库 SCW1 口语练习站，把大一英语口语备考流程做成可实际使用的网页。  
+  Published my first repository, SCW1 Speaking Studio, to turn first-year English speaking prep into a working web app. [仓库 · Repository](https://github.com/kevin8-create/xjtlu-scw1-speaking-studio)
+- **2026-11-21** · 开源数学自习室，同步发布网页和 Windows 版。  
+  Open-sourced Mathematics Study Desk and released web and Windows editions. [仓库 · Repository](https://github.com/kevin8-create/mathematics-study-desk)
