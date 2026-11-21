@@ -1,16 +1,33 @@
-## Hi there 👋
+![Kevin — XJTLU · Projects & Open Source](assets/profile-banner.png)
 
-<!--
-**kevin8-create/kevin8-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 Kevin，在西交利物浦大学（XJTLU）读书。我做的项目从课程里的实际需求出发，最近在做双语学习工具和网页交互作品。
 
-Here are some ideas to get you started:
+I’m Kevin, a student at Xi’an Jiaotong-Liverpool University (XJTLU). I build projects around practical needs from my courses, including bilingual study tools and interactive web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[个人作品集 · Kevin Spectrum](https://kevin-spectrum-space.eager-bloom-6519.chatgpt.site/)
+
+## 项目 · Projects
+
+### 数学自习室 · Mathematics Study Desk
+
+面向 MTH026 微积分和 MTH028 线性代数的复习工具，含原创题、双语解答、限时练习和错题复习。支持网页使用和 Windows 离线练习。
+
+Exam prep for MTH026 Calculus and MTH028 Linear Algebra with original questions, bilingual worked solutions, timed sets, and mistake review. Runs on the web and offline on Windows.
+
+[在线使用 · Live app](https://kevin-spectrum-space.eager-bloom-6519.chatgpt.site/math/) · [源码 · Source](https://github.com/kevin8-create/mathematics-study-desk)
+
+### SCW1 口语练习站 · SCW1 Speaking Studio
+
+西浦大一英语口语练习站，提供限时作答、模拟访谈、词汇卡和两周练习计划。
+
+A speaking practice app for XJTLU Year 1 English, with timed responses, mock interviews, vocabulary cards, and a two-week practice plan.
+
+[在线练习 · Live app](https://xjtlu-scw1-speaking-studio.eager-bloom-6519.chatgpt.site/) · [源码 · Source](https://github.com/kevin8-create/xjtlu-scw1-speaking-studio)
+
+### 世界名校树 · Campus Constellation
+
+用手势探索 30 所大学的交互作品。项目页提供网页版演示和 Windows 版。
+
+An interactive showcase of 30 universities you can explore with hand gestures. The project page has a browser demo and a Windows edition.
+
+[查看作品 · View project](https://campus-constellation.eager-bloom-6519.chatgpt.site/)
